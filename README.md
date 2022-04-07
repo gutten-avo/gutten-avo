@@ -1,6 +1,6 @@
 # Hello everything, I'm Fauzan - aka Gutten Avo 👋 
-[![Website](https://img.shields.io/website?label=Portofolio-Website.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fauzanmustofa.my.id)
-[![Follow my Instagram @gutten.avo](https://img.shields.io/badge/-Follow%20%20%20My%20Instagram%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://instagram.com/gutten.avo)
+[![website](https://img.shields.io/website?label=Portofolio-Website.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fauzanmustofa.my.id)
+[![instagram](https://img.shields.io/badge/-Follow%20%20%20My%20Instagram%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://instagram.com/gutten.avo)
 
 ## I'm a student at Binus University
 - 👀 Love everything about creativity, art, design, history and tech.
@@ -96,12 +96,9 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://fauzanmustofa.my.id
+[instagram]: https://instagram.com/gutten.avo
+[linkedin]: https://linkedin.com/in/fauzan-mustofa-5a956b1b8/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
