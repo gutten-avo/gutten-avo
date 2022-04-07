@@ -21,6 +21,6 @@
 
 
 
-[website]: https://fauzanmustofa.my.id
+<!-- [website]: https://fauzanmustofa.my.id
 [instagram]: https://instagram.com/gutten.avo
-[linkedin]: https://linkedin.com/in/fauzan-mustofa-5a956b1b8/
+[linkedin]: https://linkedin.com/in/fauzan-mustofa-5a956b1b8/ -->
