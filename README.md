@@ -1,6 +1,6 @@
-- 👋 Hello everything! I’m Fauzan Mustofa
+Hello everything👋 I’m Fauzan Mustofa.
 - 👀 Love everything about creativity, art, design, history and tech.
-- 🎒 Currently studying Computer Science in Bina Nusantara University @Malang
+- 🎒 Currently studying Computer Science at Bina Nusantara University.
 
 See my portofolio: https://www.fauzanmustofa.my.id 
 
