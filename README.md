@@ -5,6 +5,7 @@
 ## I'm a student at Binus University
 - 👀 Love everything about creativity, art, design, history and tech.
 - 🎒 Currently studying Computer Science at Bina Nusantara University.
+- ❤️ Love everything about creativity, art, design, history and tech.
 
 
 ### Languages and Tools:
